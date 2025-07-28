@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.sendKeybindingsToShell": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "",
+        "",
+        "",
+        ""
+    ]
+}
